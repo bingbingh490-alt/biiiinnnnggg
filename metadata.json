@@ -1,8 +1,7 @@
-node_modules/
-build/
-dist/
-coverage/
-.DS_Store
-*.log
-.env*
-!.env.example
+{
+  "name": "LifeGuard - 紧急医疗服务平台",
+  "description": "一个集急救资源、健康管理与社区互助为一体的紧急医疗服务平台。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
